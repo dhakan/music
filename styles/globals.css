@@ -25,6 +25,7 @@ body {
   color: white;
   min-height: 100vh;
   max-width: 80rem;
+  padding: 1em;
 }
 
 a {
